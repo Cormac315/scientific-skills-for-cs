@@ -1,6 +1,6 @@
 # 计科 / 网安科研 Skill 索引（74）
 
-本文件与仓库根目录 `README.md` 同步。原名后为中文名称。
+目录名与 `SKILL.md` 的 `name` 均为 `英文原名(中文名称)`。
 
 ## 机器学习 / AI
 
@@ -15,7 +15,7 @@
 - umap-learn(UMAP降维)
 - timesfm-forecasting(TimesFM时序预测)
 - hypogenic(LLM假设生成与检验)
-- scikit-survival(生存/时至事件分析)
+- scikit-survival(生存时至事件分析)
 
 ## 图网络 / 系统仿真
 
